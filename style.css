@@ -1,0 +1,538 @@
+.topic {
+  position: absolute;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 10px;
+  margin-left: 770px;
+}
+html {
+  background: url(lottery-3846567_1920.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  position: absolute;
+  cursor: pointer;
+  margin-left: 760px;
+  margin-top: 70px;
+}
+.circle1-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e74c3c;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: -300px;
+}
+.circle1-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e67e22;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: -300px;
+}
+.circle1-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2ecc71;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: -300px;
+}
+.circle1-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #3498db;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -0px;
+  margin-top: -300px;
+}
+.circle1-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #9b59b6;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: -300px;
+}
+.circle1-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #34495e;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: -300px;
+}
+.circle2-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #f1c40f;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: -100px;
+}
+.circle2-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2ecc71;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: -100px;
+}
+.circle2-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #27ae60;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 0px;
+  margin-top: -100px;
+}
+.circle2-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #16a085;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: -100px;
+}
+.circle2-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #3498db;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: -100px;
+}
+.circle2-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2980b9;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: -100px;
+}
+.circle3-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #f1c40f;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: 100px;
+}
+.circle3-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e67e22;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: 100px;
+}
+.circle3-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #d35400;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: 100px;
+}
+.circle3-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e74c3c;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 0px;
+  margin-top: 100px;
+}
+.circle3-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #34495e;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.circle3-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #7f8c8d;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.circle4-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2c3e50;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: 300px;
+}
+.circle4-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #16a085;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: 300px;
+}
+.circle4-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #1abc9c;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 0px;
+  margin-top: 300px;
+}
+.circle4-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2ecc71;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: 300px;
+}
+.circle4-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #27ae60;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: 300px;
+}
+.circle4-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #16a085;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: 300px;
+}
+.circle5-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #c0392b;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: 500px;
+}
+
+.circle5-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2c3e50;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: 500px;
+}
+
+.circle5-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #3498db;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: 500px;
+}
+
+.circle5-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #ecf0f1;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 0px;
+  margin-top: 500px;
+}
+
+.circle5-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #f1c40f;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: 500px;
+}
+
+.circle5-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #16a085;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: 500px;
+}
+.circle6-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #f1c40f;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 400px;
+  margin-top: 700px;
+}
+.circle6-2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #3498db;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 200px;
+  margin-top: 700px;
+}
+.circle6-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #8e44ad;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 0px;
+  margin-top: 700px;
+}
+.circle6-4 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #9b59b6;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: 700px;
+}
+.circle6-5 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e67e22;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px;
+  margin-top: 700px;
+}
+.circle6-6 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #e74c3c;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -600px;
+  margin-top: 700px;
+}
